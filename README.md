@@ -2,7 +2,7 @@
 
 This research explores the use of machine learning algorithms—specifically **Decision Tree** and **Support Vector Machine (SVM)**—to predict an individual's health status based on vital signs such as **Temperature (F), SpO2 (%), Heart Rate (bpm), Weight (kg), Gender, and Age**.
 
-The models are evaluated based on prediction accuracy and computation time, achieving up to **98% accuracy with Decision Tree** and **91% with SVM** on a dataset of 1000 real-world-style records.
+The models are evaluated based on prediction accuracy and computation time, achieving up to **98% accuracy with Decision Tree** and **91% with SVM** on a dataset of 10,000+ real-world-style records.
 
 ---
 
