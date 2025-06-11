@@ -20,7 +20,7 @@ The models are evaluated based on prediction accuracy and computation time, achi
 |              File                       |                Description                |
 |-----------------------------------------|-------------------------------------------|
 | `health_monitoring_investigation.ipynb` | Jupyter Notebook with full implementation |
-| `health_monitoring_dataset.csv`         | Dataset used for training and testing     |
+| `health_monitoring_dataset_10k.csv`     | Dataset used for training and testing     |
 | `README.md`                             | Project documentation                     |
 
 ---
